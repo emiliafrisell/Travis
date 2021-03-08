@@ -34,7 +34,7 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
-    "author": "Emilia Frisell"
+    "author": "echo Emilia Frisell"
   },
   "repository": {
     "type": "git",
